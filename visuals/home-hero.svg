@@ -1,0 +1,49 @@
+<svg width="1400" height="980" viewBox="0 0 1400 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="980" rx="40" fill="#F5F8FC"/>
+  <rect x="70" y="70" width="1260" height="840" rx="34" fill="url(#paint0_linear)"/>
+  <circle cx="1118" cy="212" r="112" fill="#D7E8FF"/>
+  <circle cx="1108" cy="204" r="64" fill="#FFFFFF"/>
+  <path d="M1215 204H1001" stroke="#D0DBE9" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1108 96V312" stroke="#D0DBE9" stroke-width="10" stroke-linecap="round"/>
+  <g opacity="0.35">
+    <path d="M160 190H960" stroke="#C9D7E9" stroke-width="4"/>
+    <path d="M160 270H960" stroke="#C9D7E9" stroke-width="4"/>
+    <path d="M160 350H960" stroke="#C9D7E9" stroke-width="4"/>
+    <path d="M160 430H960" stroke="#C9D7E9" stroke-width="4"/>
+    <path d="M160 510H960" stroke="#C9D7E9" stroke-width="4"/>
+    <path d="M240 110V590" stroke="#C9D7E9" stroke-width="4"/>
+    <path d="M420 110V590" stroke="#C9D7E9" stroke-width="4"/>
+    <path d="M600 110V590" stroke="#C9D7E9" stroke-width="4"/>
+    <path d="M780 110V590" stroke="#C9D7E9" stroke-width="4"/>
+  </g>
+  <rect x="170" y="560" width="470" height="196" rx="28" fill="#173B6D"/>
+  <rect x="198" y="592" width="122" height="72" rx="12" fill="#264E86"/>
+  <rect x="334" y="592" width="122" height="72" rx="12" fill="#264E86"/>
+  <rect x="470" y="592" width="122" height="72" rx="12" fill="#264E86"/>
+  <path d="M205 628H586" stroke="#8FB3E8" stroke-width="4"/>
+  <path d="M268 595L298 560" stroke="#8FB3E8" stroke-width="5"/>
+  <path d="M404 595L434 560" stroke="#8FB3E8" stroke-width="5"/>
+  <path d="M540 595L570 560" stroke="#8FB3E8" stroke-width="5"/>
+  <rect x="760" y="528" width="210" height="228" rx="28" fill="#FFFFFF"/>
+  <rect x="788" y="558" width="154" height="24" rx="12" fill="#173B6D"/>
+  <rect x="806" y="608" width="118" height="34" rx="10" fill="#7EB38E"/>
+  <rect x="806" y="654" width="118" height="34" rx="10" fill="#A7C69C"/>
+  <rect x="806" y="700" width="118" height="34" rx="10" fill="#D4E5C8"/>
+  <path d="M970 642C1031 642 1079 593 1079 532" stroke="#173B6D" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1080 532H1182" stroke="#173B6D" stroke-width="10" stroke-linecap="round"/>
+  <rect x="1086" y="496" width="170" height="108" rx="22" fill="#173B6D"/>
+  <path d="M1130 554L1168 514L1217 566L1260 494" stroke="#8FB3E8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1130" cy="554" r="10" fill="#8FB3E8"/>
+  <circle cx="1168" cy="514" r="10" fill="#8FB3E8"/>
+  <circle cx="1217" cy="566" r="10" fill="#8FB3E8"/>
+  <circle cx="1260" cy="494" r="10" fill="#8FB3E8"/>
+  <rect x="990" y="660" width="220" height="96" rx="22" fill="#FFFFFF"/>
+  <path d="M1026 708H1174" stroke="#173B6D" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1026 730H1116" stroke="#9CAFC6" stroke-width="8" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="700" y1="70" x2="700" y2="910" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EEF4FB"/>
+    </linearGradient>
+  </defs>
+</svg>
