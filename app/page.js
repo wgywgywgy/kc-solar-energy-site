@@ -31,11 +31,11 @@ export default function HomePage() {
             src="/photos/solar-hero-premium.jpg"
             alt={lang === "zh" ? "大型光伏电站" : "Utility-scale solar installation"}
             eyebrow={lang === "zh" ? "储能与光伏" : "Storage + Solar"}
-            title={lang === "zh" ? "围绕三条核心业务线建立更清晰的网站结构。" : "A cleaner website structure built around three core business lines."}
+            title={lang === "zh" ? "高效集成，确保系统最高在线率。" : "High integration ensures maximum system uptime."}
             description={
               lang === "zh"
-                ? "KC Solar Energy LLC 现在聚焦户用储能、工商业储能和光伏。"
-                : "KC Solar Energy LLC now centers the site around Residential Storage, Commercial & Industrial Storage, and Solar."
+                ? "我们提供的储能系统具备极高的环境适应性，能够承载 3 倍以上的瞬时启动冲击。"
+                : "Our BESS solutions are engineered for extreme environments, handling over 300% startup surges effortlessly."
             }
             priority
           />
@@ -96,11 +96,11 @@ export default function HomePage() {
             src="/photos/solar-storage-campus.jpg"
             alt={lang === "zh" ? "储能与光伏一体化站点" : "Integrated solar and storage site"}
             eyebrow={lang === "zh" ? "业务重点" : "Business Focus"}
-            title={lang === "zh" ? "更像产品主导型新能源企业官网。" : "Structured more like a product-led clean-energy company website."}
+            title={lang === "zh" ? "为复杂工程场景提供定制化方案。" : "Customized solutions for complex engineering scenes."}
             description={
               lang === "zh"
-                ? "首页现在先讲清楚业务线，再引导访客继续看解决方案、产品和应用场景。"
-                : "The homepage now clarifies the business lines first, then guides visitors into Solutions, Products, and Applications."
+                ? "依托深厚的 EPC 交付背景，我们为每一个场站提供最匹配的能源资产组合。"
+                : "Leveraging our deep EPC background, we provide the most compatible energy asset mix for every unique site."
             }
           />
         </div>
@@ -131,11 +131,11 @@ export default function HomePage() {
           <div className="section-stack">
             <SectionHeading
               eyebrow={lang === "zh" ? "浏览路径" : "Explore the Site"}
-              title={lang === "zh" ? "首页只做总览，下一步去对应页面看细节。" : "The homepage stays high-level. Use the next page for the detail you actually need."}
+              title={lang === "zh" ? "深耕核心赛道，提供专业工程支撑。" : "Deep expertise in core energy sectors with professional engineering support."}
               description={
                 lang === "zh"
-                  ? "这样可以避免每一页都重复解释同样的内容。"
-                  : "This keeps the site from repeating the same explanation on every page."
+                  ? "我们的业务逻辑始终围绕降低客户运营成本与提升能源韧性展开。"
+                  : "Our business logic centers on reducing operational costs and enhancing energy resilience for our clients."
               }
             />
 
@@ -158,11 +158,11 @@ export default function HomePage() {
             src="/photos/solar-rooftop-premium.jpg"
             alt={lang === "zh" ? "屋顶光伏系统" : "Rooftop solar and storage system"}
             eyebrow={lang === "zh" ? "沟通重点" : "What the Site Is About"}
-            title={lang === "zh" ? "先看业务方向，再进入产品、方案或场景。" : "Start with the business line, then move into products, solutions, or applications."}
+            title={lang === "zh" ? "全球交付经验，助力您的项目落地。" : "Global delivery experience to empower your project success."}
             description={
               lang === "zh"
-                ? "KC Solar Energy LLC 的首页现在更像企业首页入口，而不是把所有内容都挤在同一页。"
-                : "The homepage now works more like a real corporate landing page instead of trying to explain everything at once."
+                ? "从亚太中心到北美市场，我们确保每一个项目都能获得顶级的供应链支持。"
+                : "From our APAC hub to the North American market, we ensure every project receives top-tier supply chain support."
             }
             items={lang === "zh" ? ["三条核心业务线", "真实公司信息", "明确下一步入口"] : ["Three core business lines", "Real company information", "Clear next-step routes"]}
           />
