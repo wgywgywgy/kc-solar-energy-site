@@ -10,13 +10,13 @@
   --border-strong: rgba(18, 42, 74, 0.18);
   --foreground: #0b1728;
   --foreground-muted: #5b697c;
-  --accent: #173b6d;
-  --accent-strong: #0f2747;
-  --accent-soft: rgba(23, 59, 109, 0.08);
-  --secondary: #274f87;
-  --secondary-soft: rgba(39, 79, 135, 0.12);
-  --highlight: #c9a868;
-  --shadow: 0 20px 48px rgba(15, 39, 71, 0.08);
+  --accent: #0047AB;
+  --accent-strong: #002366;
+  --accent-soft: rgba(0, 71, 171, 0.05);
+  --secondary: #0056b3;
+  --secondary-soft: rgba(0, 86, 179, 0.08);
+  --highlight: #FFD700;
+  --shadow: 0 30px 60px rgba(0, 35, 102, 0.12);
 }
 
 * {
@@ -32,7 +32,7 @@ body {
   min-height: 100vh;
   color: var(--foreground);
   font-family: "Avenir Next", "Helvetica Neue", sans-serif;
-  line-height: 1.5;
+  line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background:
@@ -244,15 +244,17 @@ img {
 }
 
 .page-title {
-  font-size: clamp(2.4rem, 4vw, 4.2rem);
-  line-height: 1.03;
-  letter-spacing: -0.04em;
+  font-size: clamp(2.4rem, 5vw, 4.8rem);
+  line-height: 0.95;
+  letter-spacing: -0.05em;
+  font-weight: 800;
 }
 
 .section-title {
-  font-size: clamp(1.9rem, 2.6vw, 3rem);
-  line-height: 1.1;
-  letter-spacing: -0.03em;
+  font-size: clamp(1.9rem, 3.2vw, 3.6rem);
+  line-height: 1.05;
+  letter-spacing: -0.04em;
+  font-weight: 700;
 }
 
 .lead-copy {
